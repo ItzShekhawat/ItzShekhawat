@@ -1,4 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/SAZwgS9TRpySYK8TRx/giphy.gif" width = "30px"> , I am Karni Singh Shekhawat !
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKarniSinghShe14)
 
 
 <!--
